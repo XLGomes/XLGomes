@@ -1,43 +1,79 @@
-<!-- Banner estilizado com cor de fundo, texto e borda -->
-<div style="background-color: #333; color: #fff; padding: 50px; text-align: center; border-radius: 10px;">
-  <h1 style="font-size: 50px; margin: 0;">Olá, eu sou o Carlos Eduardo! 👋</h1>
-  <h2 style="font-size: 24px; font-weight: lighter;">Desenvolvedor Full Stack em ascensão | Em jornada no mundo da tecnologia</h2>
-  <p style="font-size: 18px; margin-top: 20px;">Estou começando agora minha trajetória no mundo da tecnologia com o objetivo de me tornar um <strong>desenvolvedor full stack</strong>. Aqui, irei compartilhar meus projetos e meus métodos de estudo durante essa jornada, para poder crescer junto com a comunidade.</p>
-  <p style="font-size: 18px;">Qualquer ajuda é bem-vinda! Vamos aprender juntos!</p>
-</div>
-
----
-
-<!-- GIF centralizado -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZjZ2ZrNDU0dDFjeGJxdWhqOTVyN3BuaHcyaW41ejF1MW00YTkzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="400" />
+
+# Carlos Eduardo
+
+### Full Stack Developer · Data & AI
+
+Desenvolvedor focado na construção de sistemas, APIs, integrações, automações e soluções orientadas a dados.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-gomes-morais-b9998b360/)
+
 </div>
 
 ---
 
-### 💻 **Tecnologias que estou aprendendo e dominando**  
+## Sobre mim
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/-N8N-00B2A9?style=flat&logo=n8n&logoColor=white" alt="N8N" />
-  <img src="https://img.shields.io/badge/-AI-000000?style=flat&logo=ai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+Atuo com desenvolvimento **Full Stack**, participando da criação e evolução de sistemas utilizados em operações reais de negócio.
+
+Trabalho desde a construção de **APIs, regras de negócio e banco de dados** até interfaces, integrações com serviços externos, dashboards e automações.
+
+Também tenho interesse especial em **Inteligência Artificial aplicada a produtos**, automação de processos e uso de dados para apoiar decisões.
+
+- Desenvolvimento de aplicações web e APIs REST
+- Integrações com APIs e serviços externos
+- Modelagem e consultas em bancos relacionais
+- Dashboards, relatórios e análise de dados
+- Automação de processos e workflows
+- Desenvolvimento mobile com React Native
+- Containers, deploy e ambientes Linux
+- Aplicação de IA em sistemas e automações
+
+---
+
+## Tech Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+
+### Frontend & Mobile
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
+
+### DevOps & Automation
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+## Áreas de interesse
+
+```text
+Full Stack Development   •   Backend Architecture
+Data & Business Intelligence   •   Artificial Intelligence
+API Integrations   •   Automation   •   Mobile Development
+```
+
+---
+
+<div align="center">
+
+### Building software that solves real problems.
+
 </div>
-
----
-
-### 📚 **Vamos codar juntos e crescer nessa jornada!**
-
-🔧 **Confiança e colaboração**: Estou sempre buscando evoluir e ajudar quem também está na jornada do desenvolvimento. Vamos fazer acontecer! 💻🔥
-
----
-
-> "A tecnologia é uma jornada constante. O aprendizado é infinito, e a chave é nunca parar de explorar." 🚀
